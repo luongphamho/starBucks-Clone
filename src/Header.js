@@ -21,8 +21,8 @@ function Header() {
         <Link className="header__link">Gift Cards</Link>
       </div>
       <div className="header__right">
-          <Example/>
-          <FindAStore/>
+          {/* <Example/>
+          <FindAStore/> */}
       </div>
     </div>
   );
