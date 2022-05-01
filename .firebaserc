@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "starbucks-clone"
-  }
+    "default": "starbuck-clone-acb05",
+    "y": "starbuck-clone-acb05"
+  },
+  "targets": {}
 }
